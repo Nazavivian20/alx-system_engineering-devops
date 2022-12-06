@@ -1,0 +1,2 @@
+#!/bin/bashIl
+ls -la >> ls_cwd_content
